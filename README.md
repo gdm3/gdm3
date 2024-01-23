@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noel</h1>
+<h1 align="center">Hi 👋, I'm GDm3</h1>
 <h3 align="center">A 16 year old aspiring developer.</h3>
 
 - 🌱 I’m currently learning **React Native, TypeScript**
